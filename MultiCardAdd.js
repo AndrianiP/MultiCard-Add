@@ -31,7 +31,6 @@ function getAddCardButton() {
 function lowerCreateButton() {
   let createButtonElement = document.getElementsByClassName("CreateSetPage-publishButton")[0];
   console.log(createButtonElement);
-  createButtonElement.style.marginTop = "6.25em";
 }
 
 function getNumberOfCards() {
