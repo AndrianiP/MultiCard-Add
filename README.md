@@ -3,6 +3,6 @@
  
  ![](/docfx/MultiCardDemo.gif)
 
-Without Extension you can only add one card a time making it very tedious to create a large set.
+**Without Extension you can only add one card a time making it very tedious to create a large set.**
 
 ![](/docfx/withoutMultiCardDemo.gif)
